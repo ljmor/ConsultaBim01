@@ -21,9 +21,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2gIHG1BKXMpcl91k8tFL3NhlvKP" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -38,7 +38,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/ljmor/Documentos/Universidad/Ciclo04/ProgAvanzada/ConsultaBim01/Consulta",
+    "last_opened_file_path": "/home/ljmor/Documentos/Universidad/Ciclo04/ProgAvanzada/Bim01/ConsultaBim01/Consulta01",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -78,6 +78,7 @@
       <option name="presentableId" value="Default" />
       <updated>1715378078363</updated>
       <workItem from="1715378079451" duration="2272000" />
+      <workItem from="1716424111119" duration="24000" />
     </task>
     <task id="LOCAL-00001" summary="ConsultaBim01">
       <option name="closed" value="true" />
